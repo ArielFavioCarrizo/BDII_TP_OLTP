@@ -1,0 +1,8 @@
+/home/ariel/Universidad/UCA/BaseDeDatosII/CodigoFuente/project-orm-oltp-template/src/main/java/ar/edu/uca/template/entities/Agente.java
+/home/ariel/Universidad/UCA/BaseDeDatosII/CodigoFuente/project-orm-oltp-template/src/main/java/ar/edu/uca/template/Application.java
+/home/ariel/Universidad/UCA/BaseDeDatosII/CodigoFuente/project-orm-oltp-template/src/main/java/ar/edu/uca/template/adapters/AgenteEmpresaAdapter.java
+/home/ariel/Universidad/UCA/BaseDeDatosII/CodigoFuente/project-orm-oltp-template/src/main/java/ar/edu/uca/template/repositories/AgenteRepository.java
+/home/ariel/Universidad/UCA/BaseDeDatosII/CodigoFuente/project-orm-oltp-template/src/main/java/ar/edu/uca/template/services/AgenteService.java
+/home/ariel/Universidad/UCA/BaseDeDatosII/CodigoFuente/project-orm-oltp-template/src/main/java/ar/edu/uca/template/facades/FacadeSample.java
+/home/ariel/Universidad/UCA/BaseDeDatosII/CodigoFuente/project-orm-oltp-template/src/main/java/ar/edu/uca/template/entities/dtos/EmpresaDTO.java
+/home/ariel/Universidad/UCA/BaseDeDatosII/CodigoFuente/project-orm-oltp-template/src/main/java/ar/edu/uca/template/RepositoriesConf.java
